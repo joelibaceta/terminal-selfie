@@ -1,5 +1,6 @@
 
-![logo](images/title.svg)
+![logo](images/project-title.svg)
+
 
 ## Installation
 
@@ -14,3 +15,5 @@ Just run the following command in your terminal
 ```bash
 take-selfie
 ```
+
+
