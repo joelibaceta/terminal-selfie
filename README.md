@@ -1,3 +1,3 @@
 
-![logo](images/Title.svg)
+![logo](images/title.svg)
 
