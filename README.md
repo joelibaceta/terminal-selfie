@@ -1,5 +1,5 @@
 
-![logo](images/project-logo.svg)
+![logo](images/logo.svg)
 
 ## Installation
 
