@@ -4,7 +4,7 @@ import cv2
 import image_processor
 
 
-def capture_selfie():
+def take_selfie():
     cam = cv2.VideoCapture(0)
     ret, frame = cam.read()
     print_selfie(frame)

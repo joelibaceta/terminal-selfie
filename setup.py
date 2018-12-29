@@ -26,7 +26,7 @@ setup(
     keywords='selfie terminal opencv',
     entry_points={
         "console_scripts": [
-            'term=video_to_ascii.cli:main'
+            'terminal-selfie=main:main'
         ]
     }
 )
