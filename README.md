@@ -16,4 +16,4 @@ Just run the following command in your terminal
 take-selfie
 ```
 
-![screen](images/screen.svg)
+![screen](images/screen.png)
