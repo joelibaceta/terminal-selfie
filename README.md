@@ -1,7 +1,6 @@
 
 ![logo](images/project-logo.svg)
 
-
 ## Installation
 
 ```python
