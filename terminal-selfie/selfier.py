@@ -1,7 +1,7 @@
 import os
 
 import cv2
-import image_processor
+from . import image_processor
 
 
 def take_selfie():

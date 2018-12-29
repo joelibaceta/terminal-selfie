@@ -26,7 +26,7 @@ setup(
     keywords='selfie terminal opencv',
     entry_points={
         "console_scripts": [
-            'terminal-selfie=main:main'
+            'terminal-selfie=terminal-selfie.cli:main'
         ]
     }
 )

@@ -1,5 +1,7 @@
 """This module contains a CLI interface"""
-import main
+
+from . import selfier
+
 
 def main():
     import argparse
@@ -10,7 +12,7 @@ def main():
     PARSER = argparse.ArgumentParser(prog='terminal-selfie', description=CLI_DESC, epilog=EPILOG)
     ARGS = PARSER.parse_args()
 
-    main.take_selfie()
+    selfier.take_selfie()
 
 
 if __name__ == '__main__':
