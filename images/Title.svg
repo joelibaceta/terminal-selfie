@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250.282 82.617" height="50px">
+  <defs>
+    <style>
+      .cls-1, .cls-6 {
+        fill: #4e4e4e;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 11px;
+        font-family: Geneva;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-3 {
+        fill: #df5248;
+      }
+
+      .cls-4 {
+        fill: #eeca45;
+      }
+
+      .cls-5 {
+        fill: #99bc4e;
+      }
+
+      .cls-6 {
+        font-size: 16px;
+        font-family: HelveticaNeue, Helvetica Neue;
+        letter-spacing: 0.08em;
+      }
+    </style>
+  </defs>
+  <g id="Title" transform="translate(-460.483 -276.727)">
+    <g id="Group_1" data-name="Group 1" transform="translate(460.483 276.727)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="93.315" height="82.617" rx="7" transform="translate(0)"/>
+      <text id="_O__" data-name="   \O_
+,/\/
+  /
+  \
+  `" class="cls-2" transform="translate(27.341 30.02)"><tspan x="0" y="0" xml:space="preserve">   \O_</tspan><tspan x="0" y="11">,/\/</tspan><tspan x="0" y="22" xml:space="preserve">  /</tspan><tspan x="0" y="33" xml:space="preserve">  \</tspan><tspan x="0" y="44" xml:space="preserve">  `</tspan></text>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-3" cx="2.997" cy="2.997" rx="2.997" ry="2.997" transform="translate(5.944 4.755)"/>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" class="cls-4" cx="2.997" cy="2.997" rx="2.997" ry="2.997" transform="translate(13.502 4.755)"/>
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" class="cls-5" cx="2.997" cy="2.997" rx="2.997" ry="2.997" transform="translate(21.061 4.755)"/>
+    </g>
+    <text id="terminal-selfie" class="cls-6" transform="translate(591.764 321.253)"><tspan x="0" y="0">terminal-selfie</tspan></text>
+  </g>
+</svg>
