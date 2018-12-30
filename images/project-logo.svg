@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 265.282 82.617">
+  <defs>
+    <style>
+      .cls-1, .cls-7 {
+        fill: #4e4e4e;
+      }
+
+      .cls-2 {
+        fill: #df5248;
+      }
+
+      .cls-3 {
+        fill: #eeca45;
+      }
+
+      .cls-4 {
+        fill: #99bc4e;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #fff;
+        font-size: 11px;
+        font-family: Geneva;
+      }
+
+      .cls-5, .cls-7 {
+        letter-spacing: 0.08em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0.05em;
+      }
+
+      .cls-7 {
+        font-size: 18px;
+        font-family: HelveticaNeue, Helvetica Neue;
+      }
+    </style>
+  </defs>
+  <g id="project-title" transform="translate(-460.483 -276.727)">
+    <g id="logo">
+      <rect id="terminal" class="cls-1" width="93.315" height="82.617" rx="7" transform="translate(460.483 276.727)"/>
+      <g id="iconbar" transform="translate(460.483 276.727)">
+        <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="2.997" cy="2.997" rx="2.997" ry="2.997" transform="translate(5.944 4.755)"/>
+        <ellipse id="Ellipse_2" data-name="Ellipse 2" class="cls-3" cx="2.997" cy="2.997" rx="2.997" ry="2.997" transform="translate(13.502 4.755)"/>
+        <ellipse id="Ellipse_3" data-name="Ellipse 3" class="cls-4" cx="2.997" cy="2.997" rx="2.997" ry="2.997" transform="translate(21.061 4.755)"/>
+      </g>
+      <g id="Group_1" data-name="Group 1">
+        <text id="_" data-name="  `  " class="cls-5" transform="translate(493.656 351.343)"><tspan x="0" y="0" xml:space="preserve">  `  </tspan></text>
+        <text id="_2" data-name="  \      " class="cls-5" transform="translate(493.656 341.343)"><tspan x="0" y="0" xml:space="preserve">  \      </tspan></text>
+        <text id="_3" data-name="  /      " class="cls-5" transform="translate(493.656 330.343)"><tspan x="0" y="0" xml:space="preserve">  /      </tspan></text>
+        <text id="_4" data-name=",/\/     " class="cls-6" transform="translate(491.823 318.746)"><tspan x="0" y="0" xml:space="preserve">,/\/     </tspan></text>
+        <text id="_O__" data-name="    \O_   " class="cls-6" transform="translate(487.823 306.746)"><tspan x="0" y="0" xml:space="preserve">    \O_   </tspan></text>
+      </g>
+    </g>
+    <text id="title" class="cls-7" transform="translate(591.764 321.253)"><tspan x="0" y="0">terminal-selfie</tspan></text>
+  </g>
+</svg>
